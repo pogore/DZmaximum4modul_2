@@ -1,0 +1,61 @@
+h1 {
+    background: red;
+    font-size: 28pt;
+}
+
+.paragrapf-gb {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+
+.paragraph-2 {
+    background: grey;
+    border-radius: 15px;
+    border-width: 5px;
+    border-color: brown;
+    font-size: 24pt;
+    width: 50%;
+}
+
+.div-1 {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 24pt;
+    margin-left: 60px;
+}
+
+.image-1 {
+    border-radius: 15px;
+}
+
+body {
+       background-image: url("wallpaper.jpg")
+   }
+
+h3 {
+    background: blue;
+    font-size: 24pt;
+    width: 50%;
+}
+
+h2 {
+    background: green;
+    font-size: 28pt;
+    width: 50%;
+}
+
+.paragraph-3 {
+    background: white;
+    font-family: "Courier New", Courier, monospace;
+    font-style: italic;
+    font-size: 24pt;
+    color: black;
+    text-shadow: 4px 4px 8px green;
+    text-align: center;
+}
+
+.image-2 {
+    border-radius: 15px;
+    border-width: 5px;
+    border-color: green;
+}
